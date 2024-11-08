@@ -22,12 +22,15 @@ button{
   font-weight: 500;
 }
 
+.container{
+  max-width: 1240px;
+  margin: auto;
+}
+
 nav{
   display: flex;
   justify-content: space-between;
   align-items: center;
-  max-width: 1240px;
-  margin: auto;
   height: 72px;
 }
 
